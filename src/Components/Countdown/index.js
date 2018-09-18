@@ -107,7 +107,7 @@ export default class Countdown extends Component {
                         New Year
                       </h1>
                       <h2>
-                      <b>New Year</b> is the time or day at which a new calendar year begins and the calendar's year count increments by one.
+                      <b>New Year</b> is the time or day at which a new calendar year begins and the calendars year count increments by one.
                       </h2>
                     
                       <section className="section">
